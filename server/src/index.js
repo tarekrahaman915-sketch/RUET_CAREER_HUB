@@ -27,7 +27,22 @@ import messagesRoutes from './routes/messages.routes.js'
 
 const app = express()
 
-app.use(cors({ origin: process.env.CLIENT_ORIGIN || 'http://localhost:5173' }))
+const rawOrigin = process.env.CLIENT_ORIGIN
+const allowedOrigins = rawOrigin
+  ? rawOrigin.split(',').map((o) => o.trim().replace(/\/$/, ''))
+  : ['http://localhost:5173']
+
+app.use(
+  cors({
+    origin: (origin, callback) => {
+      if (!origin || allowedOrigins.includes('*') || allowedOrigins.includes(origin)) {
+        return callback(null, true)
+      }
+      return callback(null, false)
+    },
+    credentials: true,
+  })
+)
 app.use(express.json())
 app.use('/uploads', express.static(path.resolve('uploads')))
 
