@@ -46,6 +46,7 @@ app.use(
 app.use(express.json())
 app.use('/uploads', express.static(path.resolve('uploads')))
 
+app.get('/', (req, res) => res.json({ message: 'RUET Carrier HUB API is running', ok: true }))
 app.get('/api/health', (req, res) => res.json({ ok: true }))
 
 app.use('/api/auth', authRoutes)
