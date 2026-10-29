@@ -1,0 +1,166 @@
+{
+ "kamaleteruet": {
+  "headline": "Professor & Head of ETE · antennas, biomedical engineering, power electronics",
+  "bio": "Received his PhD from the School of Engineering, Deakin University, Australia, and his BSc in Electronics and Communication Engineering from KUET in 2006. Works on antennas and biomedical engineering: miniature electronic devices for brain stimulation, power electronics and drives, renewable energy, and modelling of biosensors. Member of the Institution of Engineers Bangladesh. Joined RUET in 2007; Head of ETE since August 2021.",
+  "education": [
+   "PhD in Engineering, Deakin University, Australia (2015)",
+   "BSc in Electronics and Communication Engineering, KUET (2006)"
+  ],
+  "researchAreas": [
+   "Renewable energy",
+   "Power electronics and drives",
+   "Design and implementation of antennas",
+   "Deep brain stimulation (DBS)",
+   "Transcranial magnetic stimulation (TMS)",
+   "Energy harvesting",
+   "RF circuit design"
+  ],
+  "links": {
+   "scholar": "https://scholar.google.com/citations?user=edSgRDAAAAAJ&hl=en",
+   "researchgate": "https://www.researchgate.net/profile/Md-Kamal-Hosain",
+   "orcid": "https://orcid.org/0000-0001-7495-3937"
+  },
+  "counts": {
+   "journal": 23,
+   "conference": 48
+  },
+  "publications": [
+   {
+    "title": "A Deep Neural Network Model for Predicting Electric Fields Induced by Transcranial Magnetic Stimulation Coil",
+    "authors": "K. A. Sathi, M. A. Hossain, M. K. Hosain, N. H. Hai, M. A. Hossain",
+    "venue": "IEEE Access, 9, pp. 128381-128392",
+    "year": "2021",
+    "type": "Journal",
+    "link": "https://scholar.google.com/citations?user=edSgRDAAAAAJ&hl=en"
+   },
+   {
+    "title": "A new magnetic linked three-phase multilevel inverter with reduced number of switches and balanced DC sources",
+    "authors": "M. H. Mondol, S. P. Biswas, M. K. Hosain",
+    "venue": "Electrical Engineering",
+    "year": "2021",
+    "type": "Journal",
+    "link": "https://doi.org/10.1007/s00202-021-01318-1"
+   },
+   {
+    "title": "A New Control Scheme for Three-Phase Non-Isolated Grid Feeding PV Inverter",
+    "authors": "S. Jahan, S. P. Biswas, M. K. Hosain, M. R. Islam, M. M. Rahman, Y. Guo",
+    "venue": "AUPEC 2021",
+    "year": "2021",
+    "type": "Conference",
+    "link": "https://ieeexplore.ieee.org/abstract/document/9597813"
+   },
+   {
+    "title": "A Modified PWM Scheme to Improve the Power Quality of NPC Inverter Based Solar PV Fed Induction Motor Drive for Water Pumping",
+    "authors": "S. Haq, S. P. Biswas, M. K. Hosain, M. R. Islam, M. A. Rahman, K. M. Muttaqi",
+    "venue": "IEEE Industry Applications Society Annual Meeting, Vancouver",
+    "year": "2021",
+    "type": "Conference",
+    "link": "https://ieeexplore.ieee.org/document/9677083"
+   },
+   {
+    "title": "Modeling and simulation of deep brain stimulation electrodes with various active contacts",
+    "authors": "K. A. Sathi, M. K. Hosain",
+    "venue": "Research on Biomedical Engineering, 36(1), pp. 1-15",
+    "year": "2020",
+    "type": "Journal",
+    "link": "https://doi.org/10.1007/s42600-020-00060-0"
+   },
+   {
+    "title": "Compact Three Phase Multilevel Inverter for Low and Medium Power Photovoltaic Systems",
+    "authors": "M. H. Mondol, M. R. Tür, S. P. Biswas, M. K. Hosain, S. Shuvo, E. Hossain",
+    "venue": "IEEE Access, 8, pp. 60824-60837",
+    "year": "2020",
+    "type": "Journal",
+    "link": "https://scholar.google.com/citations?user=edSgRDAAAAAJ&hl=en"
+   },
+   {
+    "title": "A Miniature Energy Harvesting Rectenna for Operating a Head-mountable Deep Brain Stimulation Device",
+    "authors": "M. K. Hosain, A. Kouzani, M. F. Samad, S. Tye",
+    "venue": "IEEE Access, 3, pp. 223-234",
+    "year": "2015",
+    "type": "Journal",
+    "link": "https://scholar.google.com/citations?user=edSgRDAAAAAJ&hl=en"
+   },
+   {
+    "title": "Development of a Compact Rectenna for Wireless Powering of a Head-Mountable Deep Brain Stimulation Device",
+    "authors": "M. K. Hosain, A. Z. Kouzani, S. J. Tye, O. A. Abulseoud, A. Amiet, A. Galehdar, A. Kaynak, M. Berk",
+    "venue": "IEEE Journal of Translational Engineering in Health and Medicine, 2",
+    "year": "2014",
+    "type": "Journal",
+    "link": "https://scholar.google.com/citations?user=edSgRDAAAAAJ&hl=en"
+   },
+   {
+    "title": "Closed loop deep brain stimulation: an evolving technology",
+    "authors": "M. K. Hosain, A. Kouzani, S. Tye",
+    "venue": "Australasian Physical & Engineering Sciences in Medicine, 37, pp. 619-634",
+    "year": "2014",
+    "type": "Journal",
+    "link": "https://scholar.google.com/citations?user=edSgRDAAAAAJ&hl=en"
+   }
+  ]
+ },
+ "munjuremowlaete": {
+  "headline": "Professor, ETE · 5G/6G wireless, Open RAN, machine learning for communications",
+  "bio": "Professor of ETE at RUET (currently on leave per the department page). PhD in Wireless Communication Engineering from Edith Cowan University, Australia (2018), MSc in EEE from RUET (2013) and BSc in ECE from KUET (2006). Worked as a telecom engineer for ICX, operator and contractor companies from 2006 to 2010, with Huawei, ZTE, Ericsson and Samsung equipment, and has experience with European H2020 5G/6G projects. IEEE and IEB member; reviewer for IEEE TGCN, TSUSC and IEEE Access.",
+  "education": [
+   "PhD in Communication Engineering, Edith Cowan University, Australia (2018)",
+   "MSc Engineering in EEE, RUET (2013)",
+   "BSc Engineering in ECE, KUET (2006)"
+  ],
+  "researchAreas": [
+   "5G/6G wireless communication",
+   "Open RAN, SD-RAN, RAN controller",
+   "Millimeter-wave, THz, massive MIMO, D2D",
+   "Machine learning, AI and blockchain",
+   "MANET, VANET, UAV",
+   "IoT, mobile edge and fog computing"
+  ],
+  "links": {
+   "scholar": "https://scholar.google.com/citations?user=Vpblyg0AAAAJ&hl=en",
+   "researchgate": "https://www.researchgate.net/profile/Md_Munjure_Mowla2",
+   "website": "https://sites.google.com/site/drmdmunjuremowla/home"
+  },
+  "publications": [
+   {
+    "title": "Energy Efficient Backhauling for 5G Small Cell Networks",
+    "authors": "M. M. Mowla, I. Ahmad, D. Habibi, Q. V. Phung",
+    "venue": "IEEE Transactions on Sustainable Computing, 4(3), pp. 279-292",
+    "year": "2019",
+    "type": "Journal",
+    "link": "https://ieeexplore.ieee.org/document/8361042"
+   },
+   {
+    "title": "Proactive content caching using surplus renewable energy: A win-win solution for both network service and energy providers",
+    "authors": "M. I. A. Zahed, I. Ahmad, D. Habibi, Q. V. Phung, M. M. Mowla",
+    "venue": "Future Generation Computer Systems (Elsevier)",
+    "year": "2019",
+    "type": "Journal",
+    "link": "https://doi.org/10.1016/j.future.2019.11.041"
+   },
+   {
+    "title": "A Green Communication Model for 5G Systems",
+    "authors": "M. M. Mowla, I. Ahmad, D. Habibi, Q. V. Phung",
+    "venue": "IEEE Transactions on Green Communications and Networking, 1(3), pp. 264-280",
+    "year": "2017",
+    "type": "Journal",
+    "link": "https://ieeexplore.ieee.org/document/7918597"
+   },
+   {
+    "title": "An Energy Efficient Resource Management and Planning System for 5G Networks",
+    "authors": "M. M. Mowla, I. Ahmad, D. Habibi, Q. V. Phung",
+    "venue": "IEEE CCNC 2017, Las Vegas",
+    "year": "2017",
+    "type": "Conference",
+    "link": "https://ieeexplore.ieee.org/document/7983108/"
+   },
+   {
+    "title": "Energy Efficiency Investigation in Massive MIMO 5G System using Nakagami-m Fading Channel (Best Paper Award)",
+    "authors": "T. Hossain, M. M. Mowla, M. Y. Ali",
+    "venue": "IEEE ICCIT 2019",
+    "year": "2019",
+    "type": "Conference",
+    "link": "https://doi.org/10.1109/ICCIT48885.2019.9038180"
+   }
+  ]
+ }
+}

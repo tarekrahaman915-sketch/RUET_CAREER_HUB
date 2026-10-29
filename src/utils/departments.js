@@ -1,0 +1,21 @@
+// Official RUET departments (18 total across 4 faculties), per ruet.ac.bd.
+export const DEPARTMENTS = [
+  'Computer Science & Engineering (CSE)',
+  'Electrical & Electronic Engineering (EEE)',
+  'Electronics & Telecommunication Engineering (ETE)',
+  'Electrical & Computer Engineering (ECE)',
+  'Civil Engineering (CE)',
+  'Mechanical Engineering (ME)',
+  'Industrial & Production Engineering (IPE)',
+  'Architecture (Arch)',
+  'Urban & Regional Planning (URP)',
+  'Building Engineering & Construction Management (BECM)',
+  'Materials Science & Engineering (MSE)',
+  'Ceramic & Metallurgical Engineering (CME)',
+  'Mechatronics Engineering (MTE)',
+  'Chemical Engineering (ChE)',
+  'Chemistry',
+  'Mathematics',
+  'Physics',
+  'Humanities',
+]
